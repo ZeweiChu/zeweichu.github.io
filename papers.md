@@ -16,6 +16,8 @@ permalink: /papers/
 {% assign ddua = site.data.people["ddua"] %}
 {% assign dmcallester = site.data.people["dmcallester"] %}
 {% assign hwang = site.data.people["hwang"] %}
+{% assign tstorm = site.data.people["tstorm"] %}
+{% assign boliveira = site.data.people["boliveira"] %}
 
 
 
@@ -50,6 +52,10 @@ EMNLP, 2019. [Code and Data](https://github.com/ZeweiChu/DiscoEval) <br>
 [{{jkang.name}}]({{jkang.url}}), [{{rlogan.name}}]({{rlogan.url}}), **Zewei Chu**,  [{{ychen.name}}]({{ychen.url}}), [{{ddua.name}}]({{ddua.url}}), [{{kgimpel.name}}]({{kgimpel.url}}), [{{ssingh.name}}]({{ssingh.url}}), [{{nbalasubramanian.name}}]({{nbalasubramanian.url}}). <br>
 NAACL, 2019. [Code and Data](https://github.com/StonyBrookNLP/PoMo?utm_source=catalyzex.com) <br>
 
-[Broad context language modeling as reading comprehension](https://arxiv.org/abs/1610.08431)<br>
+[Broad Context Language Modeling as Reading Comprehension](https://arxiv.org/abs/1610.08431)<br>
 **Zewei Chu**, [{{hwang.name}}]({{hwang.url}}), [{{kgimpel.name}}]({{kgimpel.url}}), [{{dmcallester.name}}]({{dmcallester.url}}). <br>
 EACL, 2017. <br>
+
+[Scrap Your Boilerplate with Object Algebras](https://core.ac.uk/download/pdf/192680302.pdf)<br>
+Haoyuan Zhang, **Zewei Chu**, [{{boliveira.name}}]({{boliveira.url}}), [{{tstorm.name}}]({{tstorm.url}}). <br>
+OOPSLA, 2015. <br>
