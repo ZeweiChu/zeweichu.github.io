@@ -12,12 +12,12 @@ permalink: /teaching/
 {% assign ashaw = site.data.people["ashaw"] %}
 {% assign hgunawi = site.data.people["hgunawi"] %}
 
-# At the University of Chicago
+## At the University of Chicago
 
-## As Instrctor
+### As an Instrctor
 Spring 2018, Introduction to Computer Science-2
 
-## As Teaching Assistant
+### As a Teaching Assistant
 
 Spring 2020, Machine Learning (Instructor: [{{achaudhary.name}}]({{achaudhary.url}}))
 
