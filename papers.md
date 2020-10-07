@@ -61,3 +61,4 @@ Haoyuan Zhang, **Zewei Chu**, [{{boliveira.name}}]({{boliveira.url}}), [{{tstorm
 OOPSLA, 2015. <br>
 
 Ph.D. Thesis: [On Learning and Applying Text Representations](https://knowledge.uchicago.edu/record/2666) <br>
+The University of Chicago, 2020. 
