@@ -10,6 +10,7 @@ permalink: /teaching/
 {% assign mwachs = site.data.people["mwachs"] %}
 {% assign greg = site.data.people["greg"] %}
 {% assign ashaw = site.data.people["ashaw"] %}
+{% assign slu = site.data.people["slu"] %}
 {% assign hgunawi = site.data.people["hgunawi"] %}
 
 ## At the University of Chicago
