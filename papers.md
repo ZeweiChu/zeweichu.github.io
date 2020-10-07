@@ -59,3 +59,5 @@ EACL, 2017. <br>
 [Scrap Your Boilerplate with Object Algebras](https://core.ac.uk/download/pdf/192680302.pdf)<br>
 Haoyuan Zhang, **Zewei Chu**, [{{boliveira.name}}]({{boliveira.url}}), [{{tstorm.name}}]({{tstorm.url}}). <br>
 OOPSLA, 2015. <br>
+
+Ph.D. Thesis: [On Learning and Applying Text Representations](https://knowledge.uchicago.edu/record/2666) <br>
