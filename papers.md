@@ -26,7 +26,7 @@ permalink: /papers/
 Preprint, 2020. [Code and Data](https://github.com/ZeweiChu/NatCat)
 
 
-[NatCat: Weakly Supervised Text Classification with Naturally Annotated Datasets](https://arxiv.org/abs/2009.14335). <br>
+[Mining Knowledge for Natural Language Inference from Wikipedia Categories](https://arxiv.org/abs/2010.01239). <br>
 [{{mchen.name}}\*]({{mchen.url}}), **Zewei Chu\***, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
 (\*: equal contribution) <br>
 Findings of EMNLP, 2020. [Code and Data](https://github.com/ZeweiChu/WikiNLI) <br>
