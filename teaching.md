@@ -13,6 +13,8 @@ permalink: /teaching/
 {% assign slu = site.data.people["slu"] %}
 {% assign hgunawi = site.data.people["hgunawi"] %}
 
+[自然语言处理自我修炼之路](https://shimo.im/docs/HYyQyQWx39rCXk8J)
+
 ## At the University of Chicago
 
 ### As an Instrctor
