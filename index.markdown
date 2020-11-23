@@ -9,5 +9,5 @@ I am currently a software engineer at [Google](https://www.google.com/), working
 
 I am broadly interested in learning more about the world and about ourselves. 
 
-
+[中文博客](https://zeweichu.medium.com/)
 
