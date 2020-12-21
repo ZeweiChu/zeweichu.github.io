@@ -19,7 +19,9 @@ permalink: /papers/
 {% assign tstorm = site.data.people["tstorm"] %}
 {% assign boliveira = site.data.people["boliveira"] %}
 
-
+[Unsupervised Label Refinement Improves Dataless Text Classification](https://arxiv.org/abs/2012.04194) <br>
+**Zewei Chu**, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
+Preprint, 2020. [Code and Data](https://github.com/ZeweiChu/ULR)
 
 [NatCat: Weakly Supervised Text Classification with Naturally Annotated Datasets](https://arxiv.org/abs/2009.14335). <br>
 **Zewei Chu**, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
