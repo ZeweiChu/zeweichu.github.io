@@ -21,12 +21,11 @@ permalink: /papers/
 
 [Unsupervised Label Refinement Improves Dataless Text Classification](https://arxiv.org/abs/2012.04194) <br>
 **Zewei Chu**, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
-Preprint, 2020. [Code and Data](https://github.com/ZeweiChu/ULR)
+Findings of ACL, 2021. [Code and Data](https://github.com/ZeweiChu/ULR)
 
 [NatCat: Weakly Supervised Text Classification with Naturally Annotated Datasets](https://arxiv.org/abs/2009.14335). <br>
 **Zewei Chu**, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
 Preprint, 2020. [Code and Data](https://github.com/ZeweiChu/NatCat)
-
 
 [Mining Knowledge for Natural Language Inference from Wikipedia Categories](https://arxiv.org/abs/2010.01239). <br>
 [{{mchen.name}}\*]({{mchen.url}}), **Zewei Chu\***, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
