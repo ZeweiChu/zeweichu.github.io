@@ -23,9 +23,9 @@ permalink: /papers/
 **Zewei Chu**, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
 Findings of ACL, 2021. [Code and Data](https://github.com/ZeweiChu/ULR)
 
-[NatCat: Weakly Supervised Text Classification with Naturally Annotated Datasets](https://arxiv.org/abs/2009.14335). <br>
+[NatCat: Weakly Supervised Text Classification with Naturally Annotated Datasets](https://openreview.net/forum?id=kmVA04ltlG_). <br>
 **Zewei Chu**, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
-Preprint, 2020. [Code and Data](https://github.com/ZeweiChu/NatCat)
+AKBC, 2021. [Code and Data](https://github.com/ZeweiChu/NatCat). [arXiv](https://arxiv.org/abs/2009.14335) <br>
 
 [Mining Knowledge for Natural Language Inference from Wikipedia Categories](https://arxiv.org/abs/2010.01239). <br>
 [{{mchen.name}}\*]({{mchen.url}}), **Zewei Chu\***, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
