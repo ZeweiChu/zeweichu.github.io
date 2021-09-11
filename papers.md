@@ -18,6 +18,11 @@ permalink: /papers/
 {% assign hwang = site.data.people["hwang"] %}
 {% assign tstorm = site.data.people["tstorm"] %}
 {% assign boliveira = site.data.people["boliveira"] %}
+{% assign wiseman = site.data.people["wiseman"] %}
+
+[SummScreen: A Dataset for Abstractive Screenplay Summarization](https://arxiv.org/abs/2104.07091) <br>
+[{{mchen.name}}\*]({{mchen.url}}), **Zewei Chu\***, [{{wiseman.name}}]({{wiseman.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
+Preprint, 2021. <br>
 
 [Unsupervised Label Refinement Improves Dataless Text Classification](https://arxiv.org/abs/2012.04194) <br>
 **Zewei Chu**, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
