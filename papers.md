@@ -28,7 +28,7 @@ ACL, 2022. <br>
 **Zewei Chu**, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
 Findings of ACL, 2021. [Code and Data](https://github.com/ZeweiChu/ULR)
 
-[NatCat: Weakly Supervised Text Classification with Naturally Annotated Datasets](https://www.akbc.ws/2021/assets/pdfs/kmVA04ltlG_.pdf) <br>
+[NatCat: Weakly Supervised Text Classification with Naturally Annotated Datasets](https://www.akbc.ws/2021/papers/kmVA04ltlG_) <br>
 **Zewei Chu**, [{{stratos.name}}]({{stratos.url}}), [{{kgimpel.name}}]({{kgimpel.url}}). <br>
 AKBC, 2021. [Code and Data](https://github.com/ZeweiChu/NatCat). [arXiv](https://arxiv.org/abs/2009.14335) <br>
 
