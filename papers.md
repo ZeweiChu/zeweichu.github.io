@@ -48,13 +48,13 @@ AAAI, 2020. [Code and Data](https://github.com/ZeweiChu/WikiNLI) <br>
 (\*: equal contribution) <br>
 EMNLP, 2019. [Code and Data](https://github.com/ZeweiChu/EntEval) <br>
 
-[Evaluation benchmarks and learning criteria for discourse-aware sentence representations](https://www.aclweb.org/anthology/D19-1060.pdf) <br>
+[Evaluation benchmarks and learning criteria for discourse-aware sentence representations](https://aclanthology.org/D19-1060/) <br>
 [{{mchen.name}}\*]({{mchen.url}}), **Zewei Chu\***, [{{kgimpel.name}}]({{kgimpel.url}}). <br>
 (\*: equal contribution) <br>
 EMNLP, 2019. [Code and Data](https://github.com/ZeweiChu/DiscoEval) <br>
 
 
-[PoMo: Generating Entity-Specific Post-Modifiers in Context](https://aclanthology.org/N19-1089.pdf) <br>
+[PoMo: Generating Entity-Specific Post-Modifiers in Context](https://aclanthology.org/N19-1089/) <br>
 [{{jkang.name}}]({{jkang.url}}), [{{rlogan.name}}]({{rlogan.url}}), **Zewei Chu**,  [{{ychen.name}}]({{ychen.url}}), [{{ddua.name}}]({{ddua.url}}), [{{kgimpel.name}}]({{kgimpel.url}}), [{{ssingh.name}}]({{ssingh.url}}), [{{nbalasubramanian.name}}]({{nbalasubramanian.url}}). <br>
 NAACL, 2019. [Code and Data](https://github.com/StonyBrookNLP/PoMo?utm_source=catalyzex.com) <br>
 
